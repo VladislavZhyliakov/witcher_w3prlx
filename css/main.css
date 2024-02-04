@@ -44,3 +44,7 @@ body {
   transform-style: preserve-3d;
   /* transition: var(--transition) !important; */
 }
+
+.hero-title {
+  position: absolute;
+}
